@@ -897,9 +897,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Add product</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -907,7 +904,7 @@
               <sv:value>2012-11-27T11:57:13.852+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.637+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
@@ -990,9 +987,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Add folder</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -1000,7 +994,7 @@
               <sv:value>2012-11-27T11:57:13.852+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.564+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
@@ -1057,9 +1051,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Rename folder</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -1067,7 +1058,7 @@
               <sv:value>2012-11-27T11:57:13.990+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.477+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
@@ -1092,9 +1083,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Delete folder</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -1102,7 +1090,7 @@
               <sv:value>2010-09-08T15:02:53.617+02:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.422+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
@@ -1130,9 +1118,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Edit product</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -1140,7 +1125,7 @@
               <sv:value>2012-11-27T11:57:13.852+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.365+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
@@ -1171,9 +1156,6 @@
             <sv:property sv:name="jcr:createdBy" sv:type="String">
               <sv:value>admin</sv:value>
             </sv:property>
-            <sv:property sv:name="label" sv:type="String">
-              <sv:value>Delete product</sv:value>
-            </sv:property>
             <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
               <sv:value>false</sv:value>
             </sv:property>
@@ -1181,7 +1163,7 @@
               <sv:value>2010-09-08T15:02:53.617+02:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-              <sv:value>2014-03-19T17:05:25.062+01:00</sv:value>
+              <sv:value>2014-03-24T13:46:56.198+01:00</sv:value>
             </sv:property>
             <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
               <sv:value>superuser</sv:value>
