@@ -9,12 +9,7 @@
     <dependencies>
         <dependency>
             <name>core</name>
-            <version>5.0/*</version>
-        </dependency>
-
-        <dependency>
-            <name>ui-admincentral</name>
-            <version>5.0/*</version>
+            <version>5.2.3/*</version>
         </dependency>
     </dependencies>
 
