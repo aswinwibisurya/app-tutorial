@@ -4,7 +4,7 @@
   <name>app-tutorial</name>
   <displayName>App Tutorial</displayName>
   <description>Example app for My first content app tutorial</description>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
 
   <dependencies>
     <dependency>
@@ -14,6 +14,11 @@
     <dependency>
       <name>ui-admincentral</name>
       <version>5.2.3/*</version>
+    </dependency>
+    <dependency>
+      <name>ui-contentapp</name>
+      <version>5.3/*</version>
+      <optional>true</optional>
     </dependency>
   </dependencies>
 
