@@ -13,8 +13,8 @@
   <name>magnolia-app-tutorial</name>
   <description>Example for My first content app tutorial</description>
   <properties>
-    <magnoliaVersion>5.3-SNAPSHOT</magnoliaVersion>
-    <magnoliaUiVersion>5.3-SNAPSHOT</magnoliaUiVersion>
+    <magnoliaVersion>5.3-rc1</magnoliaVersion>
+    <magnoliaUiVersion>5.3-rc1</magnoliaUiVersion>
     <javaVersion>1.6</javaVersion>
   </properties>
   <scm>
