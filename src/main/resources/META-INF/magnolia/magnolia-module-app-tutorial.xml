@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>campaign-import</name>
+  <displayName>campaign-import</displayName>
+  <description>This is the campaign import module</description>
+  <version>1.1-SNAPSHOT</version>
+
+  <dependencies>
+    <dependency>
+      <name>core</name>
+      <version>5.3.0/*</version>
+    </dependency>
+    <dependency>
+      <name>ui-admincentral</name>
+      <version>5.3.0/*</version>
+    </dependency>
+    <dependency>
+      <name>ui-contentapp</name>
+      <version>5.3/*</version>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+
+  <repositories>
+    <repository>
+      <name>magnolia</name>
+      <workspaces>
+        <workspace>campaigns</workspace>
+      </workspaces>
+      <nodeTypeFile>/mgnl-nodetypes/campaign-module-nodetypes.xml</nodeTypeFile>
+    </repository>
+  </repositories>
+
+</module>
