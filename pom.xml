@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>info.magnolia</groupId>
-    <artifactId>magnolia-parent-pom-community-module</artifactId>
-    <version>28</version>
+    <groupId>info.magnolia.maven.poms</groupId>
+    <artifactId>magnolia-parent-pom-community</artifactId>
+    <version>30-SNAPSHOT</version>
   </parent>
   <groupId>info.magnolia.documentation</groupId>
   <artifactId>magnolia-app-tutorial</artifactId>
@@ -13,6 +13,7 @@
   <name>magnolia-app-tutorial</name>
   <description>Example for My first content app tutorial</description>
   <properties>
+    <magnoliaLicenseStyle>mit</magnoliaLicenseStyle>
     <magnoliaVersion>5.3</magnoliaVersion>
     <magnoliaUiVersion>5.3</magnoliaUiVersion>
     <javaVersion>1.6</javaVersion>
