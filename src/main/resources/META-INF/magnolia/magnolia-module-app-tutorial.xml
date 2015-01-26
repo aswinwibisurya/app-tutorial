@@ -4,7 +4,7 @@
   <name>app-tutorial</name>
   <displayName>App Tutorial</displayName>
   <description>Example app for My first content app tutorial</description>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.3.1-SNAPSHOT</version>
 
   <dependencies>
     <dependency>
