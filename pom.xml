@@ -14,8 +14,8 @@
   <description>Example for My first content app tutorial</description>
   <properties>
     <magnoliaLicenseStyle>mit</magnoliaLicenseStyle>
-    <magnoliaVersion>5.3</magnoliaVersion>
-    <magnoliaUiVersion>5.3</magnoliaUiVersion>
+    <magnoliaVersion>5.3.6</magnoliaVersion>
+    <magnoliaUiVersion>5.3.6</magnoliaUiVersion>
     <javaVersion>1.6</javaVersion>
   </properties>
   <scm>

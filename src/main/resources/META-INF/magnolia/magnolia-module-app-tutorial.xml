@@ -9,15 +9,15 @@
   <dependencies>
     <dependency>
       <name>core</name>
-      <version>5.2.3/*</version>
+      <version>5.3.6/*</version>
     </dependency>
     <dependency>
       <name>ui-admincentral</name>
-      <version>5.2.3/*</version>
+      <version>5.3.6/*</version>
     </dependency>
     <dependency>
       <name>ui-contentapp</name>
-      <version>5.3/*</version>
+      <version>5.3.6/*</version>
       <optional>true</optional>
     </dependency>
   </dependencies>
