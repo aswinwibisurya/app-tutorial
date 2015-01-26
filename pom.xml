@@ -8,7 +8,7 @@
   </parent>
   <groupId>info.magnolia.documentation</groupId>
   <artifactId>magnolia-app-tutorial</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3</version>
   <packaging>jar</packaging>
   <name>magnolia-app-tutorial</name>
   <description>Example for My first content app tutorial</description>
@@ -22,7 +22,7 @@
     <connection>scm:git:http://git.magnolia-cms.com/documentation/app-tutorial</connection>
     <developerConnection>scm:git:https://git.magnolia-cms.com/documentation/app-tutorial</developerConnection>
     <url>http://git.magnolia-cms.com/gitweb/?p=documentation/app-tutorial.git</url>
-    <tag>HEAD</tag>
+    <tag>magnolia-app-tutorial-1.3</tag>
   </scm>
 
   <dependencies>
